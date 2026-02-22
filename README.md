@@ -2,7 +2,7 @@
 
 Finds the shortest path in a 2D maze using Breadth-First Search (BFS), with Matplotlib visualization.
 
-*Developed after studying search algorithms in Harvard’s CS50 AI course, with code implementation assisted by DeepSeek AI.*
+*Developed after studying search algorithms in Harvard’s CS50 AI course.
 
 ![Maze Solution Example]
 ![image](https://github.com/user-attachments/assets/dce3b4f5-5b46-4b0f-9f24-217bc3b0a111)
